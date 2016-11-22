@@ -7,7 +7,7 @@ Introduction goes here.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_better_address_book', github: '[your-github-handle]/spree_better_address_book', branch: 'X-X-stable'
+  gem 'spree_better_address_book', github: 'staffordlong/spree_better_address_book', branch: 'X-X-stable'
   ```
 
   The `branch` option is important: it must match the version of Spree you're using.
@@ -50,4 +50,4 @@ If you'd like to contribute, please take a look at the
 [instructions](CONTRIBUTING.md) for installing dependencies and crafting a good
 pull request.
 
-Copyright (c) 2016 [name of extension creator], released under the New BSD License
+Copyright (c) 2016 Andrew Scott, released under the New BSD License
